@@ -1,0 +1,5 @@
+C:/Users/Legon/Desktop/Project-0/Project0-Getting-Started/cuda-introduction/build/CMakeFiles/saxpy.dir
+C:/Users/Legon/Desktop/Project-0/Project0-Getting-Started/cuda-introduction/build/CMakeFiles/transpose.dir
+C:/Users/Legon/Desktop/Project-0/Project0-Getting-Started/cuda-introduction/build/CMakeFiles/matmul.dir
+C:/Users/Legon/Desktop/Project-0/Project0-Getting-Started/cuda-introduction/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Legon/Desktop/Project-0/Project0-Getting-Started/cuda-introduction/build/CMakeFiles/ZERO_CHECK.dir

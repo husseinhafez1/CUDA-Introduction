@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.18)
+set(CUDAToolkit_ROOT "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.3")
 project(cuda-gl-check LANGUAGES CUDA CXX)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
